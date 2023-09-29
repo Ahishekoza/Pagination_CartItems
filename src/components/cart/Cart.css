@@ -1,0 +1,8 @@
+.cart{
+    flex: 3;
+    background-color: aqua;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
